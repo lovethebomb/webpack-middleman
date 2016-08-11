@@ -1,6 +1,6 @@
 {
   "name": "webpack-middleman",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "lovethebomb",
   "description": "client for middleman-wepback, fork of middleman-livereload",
   "license": "MIT",
